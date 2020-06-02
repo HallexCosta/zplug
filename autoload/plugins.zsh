@@ -1,0 +1,6 @@
+#zplug "zsh-users/zsh-syntax-highlighting"
+zplug "zdharma/fast-syntax-highlighting"
+zplug "zsh-users/zsh-autosuggestions"
+zplug "zsh-users/zsh-completions"
+zplug "paulmelnikow/zsh-startup-timer"
+zplug "desyncr/auto-ls"
